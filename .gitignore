@@ -1,0 +1,9 @@
+.idea/
+target/
+/SolidDesignPriciples/design_principles - dependency inv - end/target/*
+/SolidDesignPriciples/design_principles - interface Segregation - end/target/*
+/SolidDesignPriciples/design_principles - liskov - end/target/*
+/SolidDesignPriciples/design_principles - OC - end/target/*
+/SolidDesignPriciples/design_principles - SRP - hands on done/target/*
+
+

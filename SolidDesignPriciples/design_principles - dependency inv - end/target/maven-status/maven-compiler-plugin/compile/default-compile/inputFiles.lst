@@ -1,4 +1,7 @@
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\service\UserPersistenceService.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\service\LoginService.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\controller\UserController.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\entity\User.java
+/Users/anushapalle/Documents/DesignPatternsJava/SolidDesignPriciples/design_principles - dependency inv - end/src/main/java/com/company/depinv/MessagePrinter.java
+/Users/anushapalle/Documents/DesignPatternsJava/SolidDesignPriciples/design_principles - dependency inv - end/src/main/java/com/company/depinv/Message.java
+/Users/anushapalle/Documents/DesignPatternsJava/SolidDesignPriciples/design_principles - dependency inv - end/src/main/java/com/company/depinv/JSONFormatter.java
+/Users/anushapalle/Documents/DesignPatternsJava/SolidDesignPriciples/design_principles - dependency inv - end/src/main/java/com/company/depinv/FormatException.java
+/Users/anushapalle/Documents/DesignPatternsJava/SolidDesignPriciples/design_principles - dependency inv - end/src/main/java/com/company/depinv/Main.java
+/Users/anushapalle/Documents/DesignPatternsJava/SolidDesignPriciples/design_principles - dependency inv - end/src/main/java/com/company/depinv/Formatter.java
+/Users/anushapalle/Documents/DesignPatternsJava/SolidDesignPriciples/design_principles - dependency inv - end/src/main/java/com/company/depinv/TextFormatter.java
